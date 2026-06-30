@@ -109,6 +109,8 @@ Delete all resources once project is completed.
 
 ![alt text](image-19.png)
 
+Output of the Public IP address couldn't be taken as there was some issue with AWS services after the deployment of the EC2 instance. The public Ip address was seen in the AWS portal but output couldn't be displayed.
+
 
 
 
